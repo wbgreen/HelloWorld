@@ -5,7 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 	    System.out.println("Hello FRC 9880 from Programming team!");
-        System.out.println("Hello from RB!");
+        System.out.println("rb_Test1 Branch!");
 	}
 
 }
